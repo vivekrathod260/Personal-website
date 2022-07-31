@@ -1,0 +1,179 @@
+body{
+    margin-top: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+h1{
+   color: #8bc923; 
+   margin: 0%;
+   font-family: 'Parisienne', cursive;
+   font-size: 80px;
+}
+
+hr
+{
+    background-color: white;
+    border-style:dotted none none none;
+    height: 0px;
+    width: 4%;
+    border-width: 10px;
+    border-color: #bfc5d2;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.p1{
+    color: #7eb515; 
+    font-size: 2.5rem;
+}
+a{
+    text-decoration: none;
+    color: #4c5e66;
+}
+a:hover{
+    color: #d1d6e3;
+    transition-duration: 1s;
+
+}
+/*#####################################################################################################*/
+
+.topbar{
+    background-color: #83939b;
+    position: sticky;
+    height: 140px;
+    top: 0px;
+
+
+}
+
+
+.t1{
+    position: absolute;
+    background-color: white;
+    top: 21px;
+    left: 20%;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+
+}
+.t2{
+    position: absolute;
+
+    top: 30px;
+    right: 13%;
+}
+.logo{
+    position: relative;
+    top: 10px;
+
+}
+
+
+
+/*#####################################################################################################*/
+
+.top-container{
+    background-color: #e4f9f5;
+    padding-top: 6rem;
+
+    border-style: none none outset none;
+    border-bottom-width: 3px;
+    border-bottom-color: rgb(255, 255, 255);
+    padding-bottom: 30px;
+
+
+}
+
+.topcloud{
+    position: absolute;
+    top: 135px;
+    right: 400px;
+}
+.bottomcloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.mountain{
+    height: 30rem;
+
+}
+
+
+
+/*#####################################################################################################*/
+.middle-container{
+
+    margin-top: 50px;
+
+
+
+}
+.profile{
+
+}
+#myskills{
+    margin-bottom: 50px;
+}
+
+.skillrow{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-style: outset;
+    border-width: 6px;
+}
+
+
+/* .skillrow{
+    width: 70%;
+    margin: 20px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+} */
+
+.skillimg1{
+    width: 25%;
+
+    margin-right: 30px;
+
+}
+.skillimg2{
+    width: 25%;
+
+
+}
+.skillimg3{
+    width: 25%;
+
+}
+
+.skill1desc{
+
+}
+.skill2desc{
+
+}
+.skill3desc{
+
+}
+
+
+/*#####################################################################################################*/
+
+.bottom-container{
+    background-color: #83939b;
+    padding-top: 0.01%;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+
+
+}
